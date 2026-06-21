@@ -1,0 +1,1 @@
+var e={kindLabels:{door:`Drzwi`,window:`Okno`,hole:`Otwór`},kindIcons:{door:`🚪`,window:`🪟`,hole:`⬛`}};export{e as t};
