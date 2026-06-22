@@ -1,6 +1,6 @@
 {
-  "name": "Home Architect",
-  "short_name": "Home Architect",
+  "name": "HomeArchitect",
+  "short_name": "HomeArchitect",
   "description": "Architectural plan designer",
   "start_url": "/",
   "display": "standalone",
